@@ -4,3 +4,11 @@
     text-align: center;
     font-size: 50px;
 }
+
+.link-button-1,
+.link-button-2,
+.link-button-3 {
+    font-size: 24px;
+    color: white;
+    background-color: black;
+}
