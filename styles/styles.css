@@ -2,13 +2,23 @@
     color: red;
     background-color: silver;
     text-align: center;
-    font-size: 50px;
+    font-size: 55px;
 }
 
-.link-button-1,
+form {
+    display: inline-block;
+}
+
+.wrapper {
+    text-align: center;
+    word-spacing: 100px;
+}
+
+.link-button-1, 
 .link-button-2,
 .link-button-3 {
-    font-size: 24px;
+    font-size: 40px;
     color: white;
     background-color: black;
 }
+
